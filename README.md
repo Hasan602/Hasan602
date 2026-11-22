@@ -1,6 +1,6 @@
-<img src="assets/hasan.jpg" alt="Md Hasan" width="170" align="right" />
+<img src="assets/hasan.jpg" alt="Mohammad Hasan" width="170" align="right" />
 
-# Hi, I'm Md Hasan 👋
+# Hi, I'm Mohammad Hasan 👋
 
 **Mathematician · Math Educator · Author · Data Science & Machine Learning enthusiast**
 
